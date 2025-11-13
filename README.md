@@ -13,7 +13,7 @@ Real-Time Monitoring: Displays live moisture, temperature, and humidity data on 
 
 Energy Efficient: Runs on a rechargeable battery pack for portable or outdoor use.
 
-User Friendly: Easy setup with Arduino and simple C# interface for data visualization or control.
+User Friendly: Easy setup with Arduino and simple C++ interface for data visualization or control.
 
 🧠 How It Works
 
