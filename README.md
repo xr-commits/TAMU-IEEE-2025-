@@ -49,7 +49,7 @@ Software:
 
 Arduino IDE
 
-C# (for data logging, visualization, or optional remote monitoring)
+C++ (for data logging, visualization, or optional remote monitoring)
 
 ⚙️ Setup Instructions
 
